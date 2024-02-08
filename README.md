@@ -7,6 +7,7 @@ The goal of this project is to train a model via image classification and use th
 Python, Tensorflow, Keras, CNN
 
 ## Link to Kaggle dataset
+
 https://www.kaggle.com/datasets/gunavenkatdoddi/eye-diseases-classification
 
 ## Process
